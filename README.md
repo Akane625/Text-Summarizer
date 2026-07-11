@@ -13,3 +13,6 @@ This repository contains text summarizers using NLP techniques like `Frequency-b
 5. Run the program
 
 PS: The code was aided with OpenAI's ChatGPT
+
+
+self note add more math explanations and mini examples
