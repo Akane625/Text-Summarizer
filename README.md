@@ -1,6 +1,6 @@
 # Overview
 **Created:** June 16 - 19, 2026  
-**Updated:** July 13 - 14, 2026 (created streaamlit app)  
+**Updated:** July 13 - 15, 2026 (created streaamlit app)  
 Dataset from [AsadMahmood (Kaggle)](https://www.kaggle.com/datasets/asad1m9a9h6mood/news-articles)
 
 # About the Program
@@ -17,3 +17,5 @@ This repository contains extractive article summarizers using NLP techniques lik
 This [link](https://article-summarizer-akane.streamlit.app/) will lead you to the website version wherein you enter your own article. You can customize it by selecting the amount of sentences you want each method to output.
 
 PS: The code was aided with Anthropic's Claude
+
+there will be corrections and edits made soon...
